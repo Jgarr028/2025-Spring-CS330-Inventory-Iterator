@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="items.TestItemStack" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-02-12T20:24:26" hostname="DESKTOP-N7C5O06" time="0.004">
+  <properties/>
+  <testcase name="testAddItemsStackable()" classname="items.TestItemStack" time="0.0"/>
+  <testcase name="testClone()" classname="items.TestItemStack" time="0.001"/>
+  <testcase name="testDefaultConstructor()" classname="items.TestItemStack" time="0.001"/>
+  <testcase name="testEqualsWithDifferentClass()" classname="items.TestItemStack" time="0.0"/>
+  <testcase name="testSecondConstructor()" classname="items.TestItemStack" time="0.001"/>
+  <testcase name="testToString()" classname="items.TestItemStack" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestStorage" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-02-12T20:24:26" hostname="DESKTOP-N7C5O06" time="0.047">
+  <properties/>
+  <testcase name="testParseItemList()" classname="TestStorage" time="0.024"/>
+  <testcase name="testParseOneInventory1Basic()" classname="TestStorage" time="0.011"/>
+  <testcase name="testParseOneInventory2Basic()" classname="TestStorage" time="0.001"/>
+  <testcase name="testParseOneInventory3Basic()" classname="TestStorage" time="0.002"/>
+  <testcase name="testParseOneInventory4Basic()" classname="TestStorage" time="0.002"/>
+  <testcase name="testParseOneInventory5Basic()" classname="TestStorage" time="0.002"/>
+  <testcase name="testParseTwoInventories()" classname="TestStorage" time="0.002"/>
+  <system-out><![CDATA[Processing Log:
+ Stored    (10) HP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 2) Bow Tie
+Processing Log:
+ Stored    (10) HP Potion
+ Stored    (15) MP Potion
+ Stored    ( 6) Bow Tie
+Processing Log:
+ Stored    (10) HP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 2) Bow Tie
+ Stored    ( 2) Bow Tie
+ Stored    ( 2) Bow Tie
+ -Used 3 of 4 slots
+  (10) HP Potion
+  (15) MP Potion
+  ( 6) Bow Tie
+Processing Log:
+ Stored    (10) HP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 2) Bow Tie
+ Stored    ( 2) Bow Tie
+ Stored    ( 2) Bow Tie
+ -Used 3 of 3 slots
+  (10) HP Potion
+  (15) MP Potion
+  ( 6) Bow Tie
+Processing Log:
+ Stored    (10) HP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 2) Bow Tie
+ Stored    ( 2) Bow Tie
+ Discarded (10) Dirt
+ Stored    ( 2) Bow Tie
+ -Used 3 of 3 slots
+  (10) HP Potion
+  (15) MP Potion
+  ( 6) Bow Tie
+Processing Log:
+ Stored    (10) HP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 5) MP Potion
+ Stored    ( 2) Bow Tie
+ Stored    ( 2) Bow Tie
+ Discarded (10) Dirt
+ Stored    ( 2) Bow Tie
+ -Used 3 of 3 slots
+  (10) HP Potion
+  (15) MP Potion
+  ( 6) Bow Tie
+ -Used 0 of 2 slots
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="items.TestInventory" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-02-12T20:24:26" hostname="DESKTOP-N7C5O06" time="0.013">
+  <properties/>
+  <testcase name="testAddItemAfterFullWithNonStackable()" classname="items.TestInventory" time="0.001"/>
+  <testcase name="testAddItemAfterFullWithStackable()" classname="items.TestInventory" time="0.003"/>
+  <testcase name="testAddItemStackNoCheck()" classname="items.TestInventory" time="0.0"/>
+  <testcase name="testAddItemWithDuplicateItems()" classname="items.TestInventory" time="0.0"/>
+  <testcase name="testCloneForEmpty()" classname="items.TestInventory" time="0.002"/>
+  <testcase name="testCloneForNonEmpty()" classname="items.TestInventory" time="0.001"/>
+  <testcase name="testConstructorSizeN()" classname="items.TestInventory" time="0.0"/>
+  <testcase name="testDefaultConstructor()" classname="items.TestInventory" time="0.0"/>
+  <testcase name="testMergeStacks()" classname="items.TestInventory" time="0.0"/>
+  <testcase name="testToString()" classname="items.TestInventory" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
